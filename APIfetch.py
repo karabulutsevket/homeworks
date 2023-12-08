@@ -1,4 +1,4 @@
-# Şevket KARABULUT 02205076038
+# Şevket KARABULUT  02205076038
 
 import requests
 
